@@ -1,4 +1,10 @@
-نسخه اصلاح‌شده تصاویر سایت
+Omid Travel Iran – updated photo selection
 
-تصاویر بخش‌های اصلی با همان نتایج تصویری انتخاب‌شده برای نمایش قبلی جایگزین شده‌اند.
-برای تصاویر دارای URL مستقیم، همان فایل تصویری استفاده شده است. تصاویر Getty به دلیل محدودیت دسترسی/مجوز، داخل سایت کپی نشده‌اند.
+Updated:
+- Homepage service photos: currency exchange, hotel, villa, car with driver
+- Mashhad destination photos
+- Isfahan: Si-o-Se-Pol and New Julfa
+- Tabriz: Maqsoudiyeh
+
+The medical/treatment page was kept unchanged.
+Upload the ZIP contents to GitHub Pages.
